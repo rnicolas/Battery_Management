@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ25505
+D Energy Harvesting Boost Converter with Battery Management, RGT
+F https://www.ti.com/lit/ds/symlink/bq25570.pdf
+$ENDCMP
+#
+#End Doc Library
