@@ -5,4 +5,10 @@ D Energy Harvesting Boost Converter with Battery Management, RGT
 F https://www.ti.com/lit/ds/symlink/bq25570.pdf
 $ENDCMP
 #
+$CMP BQ25570
+D Nano Power Boost Charger and Buck Converter, RGR
+K teg, buck, converter, boost, charger
+F https://www.ti.com/lit/ds/symlink/bq25570.pdf
+$ENDCMP
+#
 #End Doc Library
